@@ -1,3 +1,11 @@
-[✓] Requirements analyzed
-[✓] Architecture planned
-[✓] Dependencies validated
+app/
+  page.tsx
+  layout.tsx
+components/
+  Calculator.tsx
+  Calculator.module.css
+lib/
+public/
+package.json
+next.config.js
+tsconfig.json
