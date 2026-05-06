@@ -1,10 +1,4 @@
-app/
-  page.tsx
-  layout.tsx
-components/
-  Calculator.tsx
-lib/
-public/
-package.json
-next.config.js
-tsconfig.json
+[✓] Files generated
+[✓] Dependency validation passed
+[✓] Build successful
+[✓] Deployment ready
